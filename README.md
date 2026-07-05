@@ -103,31 +103,6 @@ The dashboard enables stakeholders to quickly explore business performance and m
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Customer-Behavior-Analysis/
-│
-├── Data/
-│   └── customer_data.csv
-│
-├── Python/
-│   └── Customer_Behavior_Analysis.ipynb
-│
-├── SQL/
-│   └── analysis_queries.sql
-│
-├── PowerBI/
-│   └── Customer_Behavior_Dashboard.pbix
-│
-├── Images/
-│   └── dashboard_screenshot.png
-│
-├── README.md
-
-```
-
----
 
 ## 📊 Project Highlights
 
